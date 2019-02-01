@@ -1,4 +1,3 @@
-Linh Nguyen '21 (lnguyen@colgate.edu) 
 
 Test cases: 
 
